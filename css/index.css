@@ -9,9 +9,9 @@
 }
 body {
     background-color: #4A154B;
-    width: 100%;
+    margin: 0 auto;
+    width: 90%;
     height: 100vh;
-    position: fixed;
     display: flex;
     flex-direction: column;
 }
